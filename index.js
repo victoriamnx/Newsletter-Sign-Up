@@ -20,3 +20,20 @@ function validateEmail() {
 function limparInput() {
   document.getElementById("email-input").value = "";
 }
+
+function exibirModal() {
+  var emailInput = document.getElementById("email-input");
+  var notifyButton = document.getElementById("notify-button");
+  var modal = document.getElementById("modal");
+
+  if (emailInput.value !== "") {
+    limparInput();
+    modal.style.display = "block";
+    notifyButton.disabled = true;
+
+    setTimeout(function () {
+      modal.style.display = "none";
+      notifyButton.disabled = false;
+    }, 3000);
+  }
+}
