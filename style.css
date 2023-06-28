@@ -173,6 +173,10 @@ button:active {
   transform: scale(0.95);
 }
 
+.modal-content img {
+  margin-bottom: 20px;
+}
+
 .modal {
   display: none;
   flex-direction: column;
@@ -188,6 +192,7 @@ button:active {
 
 .modal-content {
   width: 400px;
+  height: auto;
   padding: 30px;
   margin: 15% auto;
   text-align: flex-start;
@@ -196,15 +201,11 @@ button:active {
   border: none;
 }
 
-.modal-message {
-  color: hsl(209, 33%, 12%);
-  font-size: 20px;
+.modal-content p {
+  font-size: 16px;
   font-weight: 400;
-  font-family: "Libre Franklin", sans-serif;
-}
-
-#success-message {
-  display: none;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 20px;
 }
 
 .attribution {
