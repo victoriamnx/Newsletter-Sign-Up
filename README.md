@@ -13,6 +13,10 @@ This is a solution to the [Newsletter Sign Up challenge on Frontend Mentor](http
 
 # Result
 
+![image](https://github.com/victoriamnx/Newsletter-Sign-Up/assets/96449803/5278afdd-89ac-4e33-b888-3307d702d102)
+![image](https://github.com/victoriamnx/Newsletter-Sign-Up/assets/96449803/50b2f2c0-8fda-4fec-b806-111d744bc686)
+![image](https://github.com/victoriamnx/Newsletter-Sign-Up/assets/96449803/8009fda9-3b4a-4230-b978-d3dbba7197a3)
+
 # Links
 
 - Solution URL: [Solution on Frontend Mentor Site](https://www.frontendmentor.io/solutions/newsletter-sign-up-3bQMNhuZeX)
@@ -24,14 +28,10 @@ This is a solution to the [Newsletter Sign Up challenge on Frontend Mentor](http
 <img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
 
-# What I learned
-
-This challenge was very good to train my javascript and learn even more, without a doubt it was difficult but I got a very nice and beautiful result, and it's working perfectly and responsive hahaha
-
 # Useful resources
 
 - [Gradient Io](https://cssgradient.io/) - Gradient io helped me create gradients quickly.
-- [CSS Scan](https://getcssscan.com/css-buttons-examples) - CSS Scan helps me whenever I need inspiration to build buttons
+- [CSS Scan](https://getcssscan.com/css-buttons-examples) - CSS Scan helps me whenever I need inspiration to build buttons.
 
 # Author
 
